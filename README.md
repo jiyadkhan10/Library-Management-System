@@ -1,0 +1,2 @@
+# Library-Management-System
+Our project is Library Management System. Its main purpose is to automate the library so it could work more efficiently. Users could effortlessly check all the available books and could post a request to borrow them from the library. While on other hand administrator can perform operations such as managing user's requests, updating database etc. Existing systems are manual so they are less efficient and is a slow process. Since, this library system is digitized so there will be no physical user engagement. 
